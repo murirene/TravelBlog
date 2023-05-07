@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Travel Blog</string>
     <string name="greeting">Hello out there! Big World!</string>
+    <string name="educative.io">Hello from educative.io!</string>
 </resources>
